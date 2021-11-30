@@ -1,1 +1,9 @@
-
+The following files are included: 
+- BATS_asl.nii.gz
+- BATS_m0.nii.gz
+- BATS_att.nii.gz
+- BATS_flair.nii.gz
+- BATS_t1q.nii.gz
+- BATS_t1w.nii.gz
+- BATS_cbf.nii.gz
+- BATS_cbf_brain.nii.gz
