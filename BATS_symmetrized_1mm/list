@@ -1,9 +1,9 @@
-The following files are included: 
-- BATS_asl.nii.gz
-- BATS_m0.nii.gz
-- BATS_att.nii.gz
-- BATS_flair.nii.gz
-- BATS_t1q.nii.gz
-- BATS_t1w.nii.gz
-- BATS_cbf.nii.gz
-- BATS_cbf_brain.nii.gz
+The following files are included in this folder, corresponding to 1mm isotropic, symmetrized volumes: 
+- BATS_asl.nii.gz: ASL difference perfusion-weighted average
+- BATS_m0.nii.gz: Proton-density weighted average
+- BATS_att.nii.gz: Arterial Transit-Time average
+- BATS_flair.nii.gz: T2-FLAIR average
+- BATS_t1q.nii.gz: Quantitative T1 average
+- BATS_t1w.nii.gz: T1-weighted average
+- BATS_cbf.nii.gz: Quantitative CBF (in mL/100g/min) average
+- BATS_cbf_brain.nii.gz: Brain-masked quantitative CBF (in mL/100g/min) average
