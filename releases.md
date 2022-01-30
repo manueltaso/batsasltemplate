@@ -9,3 +9,4 @@ To be added:
 - BATS simulator:
   - I/O interface allowing saving in .nii simulated ASL data with user-specified resolution
   - Two-compartment modeling with fixed vascular to tissue transit-time at voxel level
+  - Registration script of new data
