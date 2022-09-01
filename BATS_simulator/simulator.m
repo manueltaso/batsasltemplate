@@ -3,7 +3,11 @@
 clear all
 
 % Data loading
-load datasim.mat
+load t1.mat 
+load m0.mat 
+load mask.mat 
+load pw.mat 
+load att.mat
 
 % Fixed parameters for CBF calculation
 a=0.6;
