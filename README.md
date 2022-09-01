@@ -5,7 +5,7 @@ The template was built using ANTs multi-variate template construction framework 
 In addition, BATS also features templates of Arterial Transit-Time based on low-resolution multi-delay ASL data and high-resolution quantitative T1 and T1-weighted, as well as T2-FLAIR data. 
 Details of the acquisition protocol can be found in the following citation: 
 
-Taso, M., Munsch, F., Zhao, L., Alsop, D.C., 2021. Regional and depth-dependence of cortical blood-flow assessed with high-resolution Arterial Spin Labeling (ASL). J Cereb Blood Flow Metab 0271678X20982382. https://doi.org/10.1177/0271678X20982382
+Taso, M., Munsch, F., Zhao, L. & Alsop, D. C. Regional and depth-dependence of cortical blood-flow assessed with high-resolution Arterial Spin Labeling (ASL). J Cereb Blood Flow Metab 41, 1899–1911 (2021). DOI https://doi.org/10.1177/0271678X20982382 
 
 If you use the BATS template or ASL simulator, please cite the following reference: 
 
