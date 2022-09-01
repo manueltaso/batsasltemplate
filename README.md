@@ -9,7 +9,8 @@ Taso, M., Munsch, F., Zhao, L., Alsop, D.C., 2021. Regional and depth-dependence
 
 If you use the BATS template or ASL simulator, please cite the following reference: 
 
-Taso, M., Munsch, F., Alsop, D.C., 2021. BATS: the Boston ASL Template and Simulator – development and initial evaluation, in: Proceedings of the 29th Annual Meeting of the ISMRM. p. 2730.
+Taso, M., Munsch, F. & Alsop, D. C. The Boston ASL Template and Simulator: Initial development and implementation. Journal of Neuroimaging, (2022). DOI 10.1111/jon.13042
+
 
 
 
